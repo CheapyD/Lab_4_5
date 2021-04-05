@@ -1,0 +1,4 @@
+﻿  Lab_4_5.cpp
+C:\Users\maksd\source\repos\Lab_4_5\Lab_4_5\Complex.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_4_5\Lab_4_5\Lab_4_5.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Lab_4_5.vcxproj -> C:\Users\maksd\source\repos\Lab_4_5\Debug\Lab_4_5.exe

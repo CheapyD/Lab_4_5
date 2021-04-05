@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Lab_test_4_5.cpp
+C:\Users\maksd\source\repos\Lab_4_5\Lab_4_5\FuzzyNumber.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_4_5\Lab_4_5\FuzzyNumber.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_4_5\Lab_test_4_5\Lab_test_4_5.cpp(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     Создается библиотека C:\Users\maksd\source\repos\Lab_4_5\Debug\Lab_test_4_5.lib и объект C:\Users\maksd\source\repos\Lab_4_5\Debug\Lab_test_4_5.exp
+  Lab_test_4_5.vcxproj -> C:\Users\maksd\source\repos\Lab_4_5\Debug\Lab_test_4_5.dll
